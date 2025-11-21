@@ -14,6 +14,8 @@ Examples of behavior that contributes to creating a positive environment include
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
+We recognize that LLM's have become an integral tool for many users, however when using LLMs to help write issues or pull requests, disclose this. Transparency preserves the collaborative integrity that makes open-source communities work. It's the difference between "I used AI to help structure this bug report" (honest, helpful) and silently passing off generated content as your own analysis (deceptive, counterproductive). We as maintainers want to engage with humans rather than LLM-generated messages, put time in your issue report and that will be reflected back.
+
 Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
@@ -21,6 +23,7 @@ Examples of unacceptable behavior by participants include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
+* Writing an issue, pull request or comments through an LLM without disclsoing this
 
 ## Our Responsibilities
 
