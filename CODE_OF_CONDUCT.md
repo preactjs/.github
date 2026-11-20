@@ -14,7 +14,7 @@ Examples of behavior that contributes to creating a positive environment include
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
-We recognize that LLM's have become an integral tool for many users, however when using LLMs to help write issues or pull requests, disclose this. Transparency preserves the collaborative integrity that makes open-source communities work. It's the difference between "I used AI to help structure this bug report" (honest, helpful) and silently passing off generated content as your own analysis (deceptive, counterproductive). We as maintainers want to engage with humans rather than LLM-generated messages, put time in your issue report and that will be reflected back.
+Write issues, pull request descriptions, and comments in your own words. Our [AI contribution policy](https://github.com/preactjs/.github/blob/master/AI_POLICY.md) explains how you can use AI tools when contributing.
 
 Examples of unacceptable behavior by participants include:
 
@@ -23,7 +23,7 @@ Examples of unacceptable behavior by participants include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
-* Writing an issue, pull request or comments through an LLM without disclosing this
+* Posting AI-generated text as your issue, pull request description, or comment
 
 ## Our Responsibilities
 
